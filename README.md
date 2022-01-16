@@ -59,3 +59,18 @@ Elements are stored in a hierarchial model where each element can have child ele
 ## Binary Search Tree
 
 Max 2 child elements. Element on left is less than parent. Element on right is greater than parent.
+
+## Graph
+
+It consists of interconnected nodes with a one or two way path, and the paths may have weights. Nodes store which other nodes they're connected to any by what path weight.
+
+## Binary Search
+
+Only works with sorted arrays
+
+1. If middle element is the item, return it.
+2. If middle element greater/less than item, continue with the sublist to the left/right accordingly.
+
+## Bubble sort
+
+Go over the array `N` times and during each pass, if the left element is greater than the right one, swap them.
